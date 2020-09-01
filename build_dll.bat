@@ -1,1 +1,1 @@
-gcc -O3 -shared -o cold_turkey.dll cold_turkey.c
+gcc -O3 -shared -o cold_turkey.dll cold_turkey.c cold_turkey_float.c
